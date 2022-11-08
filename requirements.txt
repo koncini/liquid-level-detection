@@ -1,0 +1,3 @@
+﻿appdirs==1.4.4
+virtualenv==20.4.2
+
